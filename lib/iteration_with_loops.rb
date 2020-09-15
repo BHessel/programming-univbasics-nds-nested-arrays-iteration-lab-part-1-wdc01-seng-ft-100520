@@ -8,7 +8,6 @@ def find_even_values(src)
       inside_num += 1 
     end
     num += 1 
-    puts src_even
   end
   
   
