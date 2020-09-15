@@ -9,5 +9,5 @@ def find_even_values(src)
     end
     num += 1 
   end
+  puts src_even
 end
-puts src_even
